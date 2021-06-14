@@ -2,4 +2,4 @@
 
 | Course | Provided By | Weeks | Certificate |
 |---|---|---|---|
-| Introduction to Machine Learning | Duke University | 6 Weeks | Here |
+| [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke) | Duke University | 6 Weeks | Here |
