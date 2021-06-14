@@ -1,4 +1,6 @@
-[NPTEL](https://nptel.ac.in/) - National Programme on Technology Enhanced Learning
+[NPTEL](https://nptel.ac.in/) - National Programme on Technology Enhanced Learning<br>
+![nptel-logo](https://user-images.githubusercontent.com/70847577/121839136-15d1ee00-ccf7-11eb-8da6-f86733e0270c.png)
+
 
 Certificates earned in the following courses :
 
